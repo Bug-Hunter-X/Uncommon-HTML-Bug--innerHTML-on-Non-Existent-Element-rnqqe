@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML where using `innerHTML` on a non-existent element results in no error but also no change. The bug and its solution are provided in separate HTML files.
